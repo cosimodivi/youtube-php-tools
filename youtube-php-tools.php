@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 // CONFIG
-$googlekey = 'AIzaSyBhOjB06tYP0WpXzQwczp_22sBv6y22mW4'; // Please enter google key
+$googlekey = ''; // Please enter google key
 // END CONFIG
 
 
