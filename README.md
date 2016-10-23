@@ -7,6 +7,9 @@
 <li>getVideoId(videourl) = Returns Youtube video ID from url</li>
 <li>getVideoThumbnail(videoid, type) = Returns video thumbnails</li>
 <li>getVideoTitle(videoid) = Returns video title with only videoid in input</li>
+<li>getVideoViews(videoid) = Returns video views</li>
+<li>getVideoLikes(videoid) = Returns video likes</li>
+<li>getVideoDislikes(videoid) = Returns video dislikes</li>
 </ul>
 
 <h2>Requirements</h2>
