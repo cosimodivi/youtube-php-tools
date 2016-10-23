@@ -5,11 +5,13 @@
 <h2>Functions</h2>
 <ul>
 <li>getVideoId(videourl) = Returns Youtube video ID from url</li>
+<li>checkVideoId(videourl) = Use this for check user submit</li>
 <li>getVideoThumbnail(videoid, type) = Returns video thumbnails</li>
 <li>getVideoTitle(videoid) = Returns video title with only videoid in input</li>
 <li>getVideoViews(videoid) = Returns video views</li>
 <li>getVideoLikes(videoid) = Returns video likes</li>
 <li>getVideoDislikes(videoid) = Returns video dislikes</li>
+<li>getVideoStatistics(videoid, title, views, likes, dislikes, comments) = Optimized function for multiple values. Returns an array</li>
 </ul>
 
 <h2>Requirements</h2>
